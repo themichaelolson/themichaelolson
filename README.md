@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @themichaelolson
+- 👋 Hi, I’m Michael Olson (@themichaelolson)
 - 👀 I’m interested in application performance and software design
 - 🌱 I’m currently learning Ruby on Rails 💎, database optimization, and refactoring software anti-patterns
 - 💞️ I’m looking to collaborate on interesting problems and extensible solutions
